@@ -22,3 +22,8 @@ Because in order to facilitate the contract processing, improve the processing s
 一个地址对应一个邮箱NFT，每个人都可以随时铸造邮箱NFT，只要这个名字没有被人注册。已经拥有邮箱NFT的情况下再铸造新的邮箱NFT会使得原本的NFT变成野生的NFT,被人随时可以抢先注册。已有邮箱NFT的情况下，购买新的NFT也会是原来的NFT变成野生的NFT
 # About email NFT
 An address corresponds to an email NFT. Everyone can cast an email NFT at any time, as long as the name is not registered. If you already have a mailbox NFT, casting a new mailbox NFT will turn the original NFT into a wild NFT, and people can register first at any time. In the case of an existing mailbox NFT, the purchase of a new NFT will turn the original NFT into a wild NFT
+# 邮箱公钥私钥初始化和邮箱NFT铸造是独立的
+邮箱公钥私钥和邮箱NFT可以单独申请，两者互相独立，互不影响。铸造NFT可以随时点击“”按钮，不需要再点击前面的按钮。
+
+# Mailbox public key private key initialization and mailbox NFT casting are independent
+Mailbox public key private key and mailbox NFT can be applied separately, and they are independent of each other. Casting NFT can click the "" button at any time, no need to click the previous button.
