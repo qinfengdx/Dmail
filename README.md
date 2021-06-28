@@ -1,5 +1,5 @@
 # Dmail
-基于汇流区块链的分散加密邮件系统。您可以使用此系统发送加密邮件。并且本系统可以在本地http服务器上使用
+基于conflux区块链的分散加密邮件系统。您可以使用此系统发送加密邮件。并且本系统可以在本地http服务器上使用
 # Dmail
 Decentralized encrypted mail system base on Conflux Block Chain. you can use this system send encrypted mail. and this system can use in local http server！ 
 # 为什么信息是加密的？
